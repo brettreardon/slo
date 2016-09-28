@@ -1,0 +1,11 @@
+@font-face
+{
+  font-family: VolvoBroadPro;
+  src: url("../fonts/VolvoBroadOutlineSmall.otf") format("opentype");
+  font-stretch: semi-expanded;
+}
+
+h1 {
+  font-family: VolvoBroadPro;
+  font-size: 1000%;
+}
